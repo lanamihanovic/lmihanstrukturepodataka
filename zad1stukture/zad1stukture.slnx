@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zad1stukture/zad1stukture.vcxproj" Id="7d646308-103b-4301-a434-1ac2856540f7" />
+</Solution>

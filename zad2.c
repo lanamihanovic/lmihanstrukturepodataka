@@ -106,6 +106,6 @@ int main() {
 
 	printf("\nLista nakon brisanja:\n");
 	ispis(p);
-
+	free();
 	return 0;
 }
